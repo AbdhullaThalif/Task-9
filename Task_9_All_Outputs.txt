@@ -1,0 +1,61 @@
+Task 9:
+
+Outputs:
+
+Task_9_1:
+
+Madam is a Palindrome
+
+Task_9_2:
+
+Reversed String: ivuG
+
+Task_9_3:
+
+1 
+2 3 
+4 5 6 
+7 8 9 10 
+
+Task_9_4:
+
+*       *
+ *     *
+  *   *
+   * *
+    *
+   * *
+  *   *
+ *     *
+*       *
+
+
+Task_9_5:
+
+Enter the Mark: 
+
+85
+
+B Grade
+
+
+Task_9_6:
+
+Enter the month: 
+
+3
+
+Enter the Room Rent Per Day: 
+
+1500
+
+Enter the Days: 
+
+2
+
+
+3000.00
+
+Task_9_7:
+
+128 is Largest Number
